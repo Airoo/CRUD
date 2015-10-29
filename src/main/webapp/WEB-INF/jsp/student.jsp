@@ -29,9 +29,9 @@
 			</tr>
 			<tr>
 				<td colspan="2"><input type="submit" name="action" value="Add" />
-					<input type="submit" name="action" value="Edit" /> <input
-					type="submit" name="action" value="Delete" /> <input type="submit"
-					name="action" value="Searche" /></td>
+					<input type="submit" name="action" value="Edit" /> 
+					<input type="submit" name="action" value="Delete" /> 
+					<input type="submit" name="action" value="Search" /></td>
 			</tr>
 		</table>
 	</form:form>

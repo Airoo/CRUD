@@ -15,7 +15,6 @@ import com.konstantin.service.StudentService;
 
 @Controller
 public class StudentController {
-
 	@Autowired
 	private StudentService studentService;
 
